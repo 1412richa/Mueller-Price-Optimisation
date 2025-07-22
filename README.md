@@ -1,4 +1,4 @@
-# Mueller-Price-Optimisation
+# Mueller-Price-Optimization
 Price Optimization on a simple test data using OLS and Random Forest
 
 # Sales Price and Product Analytics
